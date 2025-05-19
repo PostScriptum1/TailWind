@@ -3,7 +3,14 @@
 @import "tailwindcss"; 
 
 @theme {
-    --color-primary: #74C69D;
+    --color-Main: #74C69D;
     --font-sans: "Work Sans";
     --font-crimson: "Crimson Text";
+    --container-mx: 1180px; 
+    --spacing-160: 10.3rem; 
+    --spacing-152: 9.5rem; 
+    --text-16: 16px; 
+    --shadow-shadowBg: 3px 4px 12px 1px rgba(0, 0, 0, 0.25);
+   --spacing-300: 18.75rem; 
+   --spacing-279: 17.43rem;
   }
