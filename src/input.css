@@ -4,13 +4,25 @@
 
 @theme {
     --color-Main: #74C69D;
+    --color-bg: #212529; 
     --font-sans: "Work Sans";
     --font-crimson: "Crimson Text";
     --container-mx: 1180px; 
     --spacing-160: 10.3rem; 
     --spacing-152: 9.5rem; 
-    --text-16: 16px; 
+    --text-16: 1rem; 
     --shadow-shadowBg: 3px 4px 12px 1px rgba(0, 0, 0, 0.25);
    --spacing-300: 18.75rem; 
    --spacing-279: 17.43rem;
+   --spacing-70: 4.37rem; 
+   --text-20: 1.25rem ; 
+   --text-40: 2.5rem;
+   --tracking-megawide: 0.313rem; 
+   --spacing-170: 10.625rem; 
+   --spacing-644: 40.25rem; 
+   --spacing-600: 37.5rem;
+   --spacing-378: 23.6rem;
+   --text-15: 0.9rem; 
   }
+
+
