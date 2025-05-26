@@ -308,6 +308,9 @@
   .content-between {
     align-content: space-between;
   }
+  .content-center {
+    align-content: center;
+  }
   .items-center {
     align-items: center;
   }
