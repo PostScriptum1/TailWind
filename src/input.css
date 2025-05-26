@@ -8,6 +8,7 @@
     --font-sans: "Work Sans";
     --font-crimson: "Crimson Text";
     --container-mx: 1180px; 
+  
     --spacing-160: 10.3rem; 
     --spacing-152: 9.5rem; 
     --text-16: 1rem; 
@@ -23,6 +24,16 @@
    --spacing-600: 37.5rem;
    --spacing-378: 23.6rem;
    --text-15: 0.9rem; 
+
+     --container-335: 335px; 
+     --spacing-335:  20.932rem;
+    --breakpoint-426: 426px; 
+    --breakpoint-769: 769px;
+    --spacing-426: 26.625rem;
+    --spacing-768: 48rem; 
+    --breakpoint-1180: 1180px;
+    --breakpoint-340: 340px; 
+    --spacing-250: 15.62rem; 
   }
 
 
